@@ -250,7 +250,6 @@ a592.ms.a.microsoft.com
 aan.amazon.com
 aax-beta.integ.amazon.com
 aax-us-iad.amazon.com
-aax-us.amazon-adsystem.amazon.com
 abc.facebook.com
 about.facebook.com
 aboutme.google.com
@@ -585,8 +584,6 @@ bigtableadmin.clients6.google.com
 bilder.bild.de
 bildstatic.de
 bind.facebook.com
-bingads.glbdns2.microsoft.com
-bingads.microsoft.com
 bioinfo.uni-plovdiv.bg
 bit.ly
 bitbucket.org
@@ -660,7 +657,6 @@ c2-migration.sports.jp.chan.kaw.cb3.glbdns.microsoft.com
 c2.ch1.adcenterapi.microsoft.com
 c2c-fe.amazon.com
 c2r.microsoft.com
-c9-personalized-ads-service-na.amazon.com
 ca-central-1.target.aws.amazon.com
 ca-es.facebook.com
 ca.gravatar.com
@@ -1023,7 +1019,6 @@ dl.dropboxusercontent.com
 dl.google.com
 dlbmodigital.microsoft.com
 dm.m.facebook.com
-dmp.adform.net
 dns.facebook.com
 dns03.facebook.com
 dns1.one.microsoft.com
@@ -1576,7 +1571,6 @@ grv.microsoft.com
 gsp1.apple.com
 gstat.orange.fr
 gstatic.kiwibrowser.com
-gstaticadssl.l.google.com
 gsuite.google.com
 gu-in.facebook.com
 gxc.google.com
@@ -1993,7 +1987,6 @@ mc.yandex.ru
 mceondemand.microsoft.com
 mcsp.microsoft.com
 mcspreferral.microsoft.com
-measurement.ads.google.com
 media-imdb.com
 media.directory.google.com
 media.drive.google.com
@@ -3733,7 +3726,6 @@ www.googlehosted.l.googleusercontent.com
 www.graph.facebook.com
 www.gravatar.com
 www.gsacollections-pa.googleapis.com
-www.gstaticadssl.l.google.com
 www.gyazo.com
 www.here.com
 www.history.google.com
