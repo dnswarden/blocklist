@@ -13,6 +13,7 @@ alphonso.tv
 amazon-adsystem.com
 applvn.com
 appnexus.com
+appnexus.net
 appsflyer.com
 automatad.com
 bluekai.com
