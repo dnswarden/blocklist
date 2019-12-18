@@ -1,2 +1,3 @@
 google.com
 ptvtelecom.com
+origin-ro-api-dhtv.dailyhunt.in
