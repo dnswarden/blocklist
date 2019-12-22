@@ -1,3 +1,5 @@
+ngfts.lge.com
+snu.lge.com
 origin-ro-api-dhtv.dailyhunt.in
 assets-news-bcdn.dailyhunt.in
 www.find-ip-address.org
