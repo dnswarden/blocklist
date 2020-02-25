@@ -4,3 +4,5 @@ www.a.uguu.se
 mvconf.cloud.360safe.com
 ipleak.net
 mclean.cloud.360safe.com
+app.onetrust.com
+onetrust.com
